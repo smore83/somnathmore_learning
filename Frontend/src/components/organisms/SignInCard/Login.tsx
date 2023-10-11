@@ -22,7 +22,7 @@ const OuterGrid = styled(Paper)({
     height: "672px",
     padding: "25px",
 
-    background: 'lightgrey'
+    // background: 'lightgrey'
 })
 const Login = () => {
     const {loginWithRedirect}=useAuth0();

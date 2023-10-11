@@ -12,7 +12,7 @@ const OuterGrid=styled(Paper)({
 
      width: "480px",
      height: "672px",
-     background:"lightgrey",
+    //  background:"lightgrey",
      padding:"25px"
 })
 

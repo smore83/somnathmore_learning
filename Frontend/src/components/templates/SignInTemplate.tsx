@@ -10,7 +10,8 @@ const TemplateContainer = styled(Grid)({
   justifyContent: "center",
   alignItems: "center",
   height: "100vh",
-  backgroundColor: "#F7F8FA",
+  // backgroundColor: "#F7F8FA",
+  background: 'lightgrey'
 });
 
 const LeftContainer = styled(TemplateContainer)({
